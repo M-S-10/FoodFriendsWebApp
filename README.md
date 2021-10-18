@@ -45,4 +45,6 @@ ii. Those in need of food can directly approach the restaurant instead of waitin
 ### react-native
 
 # Try it out
- 34pzb.csb.app
+ https://hscd3.csb.app/signup
+ 
+ navigate to /roleSelection, /login , /restaurantHome , /home

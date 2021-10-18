@@ -34,7 +34,7 @@ i. The volunteer can navigate to the restaurant directly within the app itself.
 ii. Those in need of food can directly approach the restaurant instead of waiting from food distribution centres or volunteers.
 ##### To go a bit further, we plan to implement a computer vision API to classify the food and give the people in need an interesting choice of menu.
     
-####But a big plan would be to take this initiative on a global scale and possibly collaborate with the UN. We can tackle the problem of hunger-crisis and climate change by doing our part! :four_leaf_clover:
+### But a big plan would be to take this initiative on a global scale and possibly collaborate with the UN. We can tackle the problem of hunger-crisis and climate change by doing our part! :four_leaf_clover:
 
 ### Built With
 ### css3

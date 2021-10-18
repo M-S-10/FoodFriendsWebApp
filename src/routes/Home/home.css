@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+}
+div {
+  color: rgb(255, 255, 255);
+}
+h2 {
+  margin: 0;
+}
+#left {
+  background: #0076ff;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  padding: 30px;
+}
+#left2 {
+  background: black;
+  width: 50%;
+  height: 10vh;
+  text-align: center;
+  padding-top: 16px;
+}
+#right {
+  background: green;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50%;
+  height: 100vh;
+  text-align: center;
+}
+
+#google-map {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50%;
+  height: 515%;
+}
+
+#tasks {
+  background-color: transparent;
+}

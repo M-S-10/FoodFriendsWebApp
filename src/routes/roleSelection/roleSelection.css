@@ -1,0 +1,13 @@
+#roleSelBtn {
+  background-color: #0076ff;
+  border-radius: 7px;
+  border: 2px solid black;
+  height: 60px;
+  padding-left: 10px;
+  width: 100%;
+  color: white;
+}
+
+#roleSelBtn:hover {
+  background-color: #248aff;
+}

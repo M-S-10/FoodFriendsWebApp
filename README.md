@@ -1,4 +1,4 @@
-# FoodFriendsWebApp
+# FoodFriendsWebApp :bread:
 ## Inspiration
 
 Whether it be your local Tims or even upbeat restaurants, it is no secret that almost all food places have food waste, a lot of which could be eaten by people who want and need it. However, due to lack of infrastructure in most restaurants for such an operation, most of that food is still thrown out at the end of the day. But what if...
@@ -25,7 +25,15 @@ The backend devs on our team were forced to work with a bit of frontend and vice
 
 ## What's next for FoodFriends
 
-The next step for FoodFriends is finding some food places and some "friends" (volunteer organizations) that want the food! (i.e expanding our userbase)
+The next step for FoodFriends is finding some food places and some "friends" (volunteer organizations) that want the food! (i.e expanding our userbase).
+
+## Future 
+
+Lots of features and functionalities that we intend to implement, the small ones being : 
+        i. The volunteer can navigate to the restaurant directly within the app itself.
+        ii. Those in need of food can directly approach the restaurant instead of waiting from food distribution centres or volunteers.
+    To go a big further, we plan to implement a computer vision API to classify the food and give the people in need an interesting choice of menu.
+But a big plan would be to take this initiative on a global scale and possibly collaborate with the UN. We can tackle the problem of hunger-crisis and climate change by doing our part!. 	:four_leaf_clover:
 
 ### Built With
 ### css3
